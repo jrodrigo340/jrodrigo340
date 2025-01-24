@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi My Name is João Rodrigo 👋
+
+##Sobre mim:
+Sou um desenvolvedor back-end com especialização na linguágem Python. Estou em busca de aprofundar meu conhecimentos em python explorando e apredendo sobre desenvolvimento web, análise de dados e automações.
 
 <!--
 **jrodrigo340/jrodrigo340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
