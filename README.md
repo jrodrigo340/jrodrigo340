@@ -3,6 +3,9 @@
 Sobre mim:
 Sou um desenvolvedor back-end com especialização na linguágem Python. Estou em busca de aprofundar meu conhecimentos em python explorando e apredendo sobre desenvolvimento web, análise de dados e automações.
 
+## Minhas Habilidades e Interesses:
+![]https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b7611a08lyzc8ji07jcwnd1e7lh99kk3yjh7wlxbturo2&ep=v1_gifs_search&rid=giphy.gif&ct=g
+🖥️ Desenvolvimento Backend:
 <!--
 **jrodrigo340/jrodrigo340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
