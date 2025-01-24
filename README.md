@@ -26,4 +26,4 @@ I'm a back-end developer specializing in the Python language. I'm looking to dee
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrodrigo340&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/jrodrigo340/jrodrigo340/blob/output/github-contribution-grid-snake.svg)
+
