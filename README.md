@@ -1,6 +1,7 @@
 ## Hi My Name is João Rodrigo 👋
 
-Sobre mim:
+## Sobre mim
+
 Sou um desenvolvedor back-end com especialização na linguágem Python. Estou em busca de aprofundar meu conhecimentos em python explorando e apredendo sobre desenvolvimento web, análise de dados e automações.
 
 ## Minhas Habilidades e Interesses:
