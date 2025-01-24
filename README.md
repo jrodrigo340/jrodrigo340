@@ -5,7 +5,8 @@
 Sou um desenvolvedor back-end com especialização na linguagem Python. Estou em busca de aprofundar meus conhecimentos em python explorando e apredendo sobre desenvolvimento web, análise de dados e automações.
 
 ## Minhas Habilidades e Interesses:
-![](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b7611a08lyzc8ji07jcwnd1e7lh99kk3yjh7wlxbturo2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b7611a08lyzc8ji07jcwnd1e7lh99kk3yjh7wlxbturo2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="auto" />
+
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/git-original.svg" width="40" height="40"/>
 <!--
