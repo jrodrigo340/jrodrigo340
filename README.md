@@ -11,13 +11,6 @@ I'm a back-end developer specializing in the Python language. I'm looking to dee
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="40" height="40"/> 
 
-## Contacts:
-
-<div>
-<a href = "mailto: joaorodrigooliver9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joao-rodrigo-ba56142a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 ## Statistics:
 
 <div>
@@ -26,4 +19,9 @@ I'm a back-end developer specializing in the Python language. I'm looking to dee
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrodrigo340&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## Contacts:
 
+<div>
+<a href = "mailto: joaorodrigooliver9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-rodrigo-ba56142a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
