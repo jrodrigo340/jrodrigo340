@@ -49,7 +49,7 @@ Atualmente desenvolvo o **Já É**, uma plataforma SaaS multi-tenant de gestão 
 *(módulos marcados como 🔒 são repositórios privados — parte de um produto comercial em desenvolvimento)*
 
 **Outros projetos em Java:**
-- **[SaaS-wedcrm](https://github.com/jrodrigo340/SaaS-wedcrm)** — CRM em Java**
+- **[SaaS-wedcrm](https://github.com/jrodrigo340/SaaS-wedcrm)** — CRM em Java
 
 ---
 
