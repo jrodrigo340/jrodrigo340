@@ -20,6 +20,7 @@ Atualmente desenvolvo o **Já É**, uma plataforma SaaS multi-tenant de gestão 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gradle/02303A" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
@@ -49,7 +50,7 @@ Atualmente desenvolvo o **Já É**, uma plataforma SaaS multi-tenant de gestão 
 *(módulos marcados como 🔒 são repositórios privados — parte de um produto comercial em desenvolvimento)*
 
 **Outros projetos em Java:**
-- **[SaaS-wedcrm](https://github.com/jrodrigo340/SaaS-wedcrm)** — CRM em Java
+- **[SaaS-wedcrm](https://github.com/jrodrigo340/SaaS-wedcrm)** — Backend de um CRM SaaS para o nicho de casamentos, em Spring Boot: autenticação JWT, PostgreSQL com migrações via Flyway, cache com Redis reativo, envio de e-mails e mapeamento de DTOs com MapStruct
 
 ---
 
